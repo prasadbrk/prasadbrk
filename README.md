@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasadbrk
 - 👀 I’m interested in Data Analysis and visualization  
-- 🌱 I’m currently learning Azure Syanpse
+- 🌱 I’m currently working on data engineering projects
 - 💞️ I’m looking to collaborate on any data releated stuff
 - 📫 How to reach me ...
 - 😄 Pronouns: He
